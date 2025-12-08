@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(20, 241, 212);
+    padding: 50px;
+}
+.container{
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+input{
+    width: 50%;
+    padding: 8px;
+}
+button{
+    padding: 8px;
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
